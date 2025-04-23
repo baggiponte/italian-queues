@@ -1,5 +1,15 @@
 # Italian Queues
 
+## Installation
+
+Of course, we want to be blazingly fast, so we have to use `uv`.
+
+```bash
+uv add https://github.com/baggiponte/italian-queues
+```
+
+## Usage
+
 ```python
 from italian_queues.queue import ItalianQueue
 
